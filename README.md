@@ -228,10 +228,10 @@ This project demonstrates **mastery of LINQ (Language Integrated Query)** in C# 
 
 ```bash
 # Clone the repository
-git clone https://github.com/Ammar-Yasser8/CSharp-LINQ-Mastery-.git
+git clone https://github.com/Ammar-Yasser8/CSharp-LINQ-Mastery.git
 
 # Navigate to project directory
-cd CSharp-LINQ-Mastery-
+cd CSharp-LINQ-Mastery
 
 # Restore dependencies
 dotnet restore
@@ -251,7 +251,7 @@ dotnet run
 ## 📁 Project Structure
 
 ```
-CSharp-LINQ-Mastery-/
+CSharp-LINQ-Mastery/
 │
 ├── Program.cs                  # Main entry point with all LINQ examples
 ├── ListGenerator.cs            # Data generator for products, customers, orders
